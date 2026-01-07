@@ -1,0 +1,5 @@
+dca_name,recovery_rate,sla_compliance,avg_recovery_time
+DCA_NORTH,0.85,0.90,15
+DCA_SOUTH,0.80,0.88,18
+DCA_EAST,0.78,0.92,12
+DCA_WEST,0.75,0.85,20
